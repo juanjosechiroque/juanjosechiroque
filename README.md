@@ -5,6 +5,13 @@
   Node.js · TypeScript · AWS Serverless · NestJS
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SaaS-Products-blue" />
+  <img src="https://img.shields.io/badge/Fintech-Payments-green" />
+  <img src="https://img.shields.io/badge/Cloud-Native-orange" />
+  <img src="https://img.shields.io/badge/Backend-Architecture-red" />
+</p>
+
 ---
 
 ## About me
@@ -13,7 +20,7 @@ I'm a software engineer with 15+ years designing and shipping scalable platforms
 
 I've co-founded and led the engineering of three SaaS products that reached production and acquired paying customers, and collaborated with distributed teams across LATAM, the US, and Europe. I'm most effective at the intersection of solid backend architecture and real business outcomes.
 
-Right now I'm focused on backend systems, cloud-native architectures, and scalable SaaS platforms.
+Right now I'm focused on backend systems, cloud-native architectures, and distributed applications.
 
 ---
 
@@ -23,17 +30,17 @@ Right now I'm focused on backend systems, cloud-native architectures, and scalab
 **Frontend:** React.js · Next.js · Angular  
 **Cloud & DevOps:** AWS Serverless & Containers (Lambda, ECS, ECR, S3, CloudFront) · Vercel · Supabase · Docker · CI/CD · Serverless Framework  
 **Databases:** PostgreSQL · MongoDB · MySQL · SQL Server · DB2  
-**Payments:** Stripe · Mercado Pago · Conekta · Payment Integrations
+**Payments:** Stripe · Mercado Pago · Conekta
 
 ---
 
 ## What I've shipped
 
-**Co-founded and led the engineering of three SaaS products that reached production and acquired paying customers** — an affiliate marketing platform, an AI-enabled commerce platform, and a CRM platform with integrated conversational workflows, designed and built using cloud-native technologies.
+**Co-founded and led the engineering of three SaaS products that reached production and acquired paying customers** — an affiliate marketing platform, an AI-enabled commerce platform, and a CRM platform with integrated conversational workflows, architected and built on modern cloud infrastructure.
 
 **Legacy-to-modern migration** — led migration from monolithic system to frontend/backend architecture at an international courier company, enabling independent deployments and reducing maintenance overhead.
 
-**Payment analytics platform** — designed and developed an internal payment analytics platform that centralized transaction data from hundreds of merchants across LATAM, supporting operational monitoring, reporting, and alerting across the payment ecosystem.
+**Payment analytics platform** — designed and developed an internal payment analytics platform that centralized transaction data from hundreds of merchants across LATAM, enabling operational monitoring, reporting, and automated alerting across the payment ecosystem
 
 ---
 
