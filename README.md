@@ -16,11 +16,11 @@
 
 ## About me
 
-I'm a software engineer with 15+ years designing and shipping scalable platforms from zero to production — across e-commerce, fintech, healthcare, and SaaS.
+I'm a software engineer with 15+ years designing and shipping scalable platforms from zero to production — across e-commerce, fintech and SaaS.
 
-I've co-founded and led the engineering of three SaaS products that reached production and acquired paying customers, and collaborated with distributed teams across LATAM, the US, and Europe. I'm most effective at the intersection of solid backend architecture and real business outcomes.
+I've worked with startups, enterprise organizations, and distributed teams across LATAM, the US, and Europe.
 
-Right now I'm focused on backend systems, cloud-native architectures, and distributed applications.
+Right now I'm focused on backend systems, distributed applications, and platform architecture.
 
 ---
 
@@ -28,7 +28,7 @@ Right now I'm focused on backend systems, cloud-native architectures, and distri
 
 **Backend:** Node.js · TypeScript · NestJS · Express.js · GraphQL · REST APIs · Microservices · Serverless  
 **Frontend:** React.js · Next.js · Angular  
-**Cloud & DevOps:** AWS Serverless & Containers (Lambda, ECS, ECR, S3, CloudFront) · Vercel · Supabase · Docker · CI/CD · Serverless Framework  
+**Cloud & DevOps:** AWS Serverless & Containers (Lambda, ECS, ECR, S3, CloudFront) · Vercel · Docker · CI/CD · Serverless Framework  
 **Databases:** PostgreSQL · MongoDB · MySQL · SQL Server · DB2  
 **Payments:** Stripe · Mercado Pago · Conekta
 
@@ -36,11 +36,15 @@ Right now I'm focused on backend systems, cloud-native architectures, and distri
 
 ## What I've shipped
 
-**Co-founded and led the engineering of three SaaS products that reached production and acquired paying customers** — an affiliate marketing platform, an AI-enabled commerce platform, and a CRM platform with integrated conversational workflows, architected and built on modern cloud infrastructure.
+**Architected and led the development of three SaaS products as co-founder and CTO, taking them from concept to production and acquiring paying customers**, including:
 
-**Legacy-to-modern migration** — led migration from monolithic system to frontend/backend architecture at an international courier company, enabling independent deployments and reducing maintenance overhead.
+- **Affiliate Marketing Platform** — click and conversion tracking, partner management, and campaign analytics.
+- **AI-Enabled E-Commerce Platform** — online store management combined with AI-powered social media content generation to increase traffic and customer acquisition.
+- **CRM Platform** — WhatsApp integration, AI-powered conversational workflows, lead management, sales pipelines, and business automation.
 
-**Payment analytics platform** — designed and developed an internal payment analytics platform that centralized transaction data from hundreds of merchants across LATAM, enabling operational monitoring, reporting, and automated alerting across the payment ecosystem
+**Legacy-to-modern migration** — architected and led the modernization of the core platform of an international courier company, transforming a legacy monolithic system into a modern frontend/backend architecture that improved performance, user experience, and integration capabilities.
+
+**Payment Analytics Platform** — designed and developed an internal monitoring and analytics platform that centralized transaction data from hundreds of merchants across LATAM, enabling near real-time operational visibility, reporting, and automated alerting across payment operations.
 
 ---
 
