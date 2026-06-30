@@ -1,14 +1,12 @@
 <h1 align="center">Juan José Chiroque</h1>
-
 <p align="center">
-  <strong>Software Architect · Senior Backend Engineer · SaaS & Fintech Platforms</strong><br/>
+  <strong>Senior Backend Engineer | Payments & E-commerce</strong><br/>
   Node.js · TypeScript · AWS · NestJS
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/SaaS-Products-blue" />
-  <img src="https://img.shields.io/badge/Fintech-Payments-green" />
-  <img src="https://img.shields.io/badge/Cloud-Native-orange" />
+  <img src="https://img.shields.io/badge/Payments-Integrations-blue" />
+  <img src="https://img.shields.io/badge/E--commerce-Platforms-green" />
+  <img src="https://img.shields.io/badge/Cloud-Native AWS-orange" />
   <img src="https://img.shields.io/badge/Backend-Architecture-red" />
 </p>
 
@@ -16,41 +14,65 @@
 
 ## About me
 
-Senior Backend Engineer and Software Architect focused on building SaaS, fintech, e-commerce, and cloud-native platforms.
+Senior Backend Engineer with 15+ years building scalable, production-grade 
+systems specialized in payments, e-commerce, and cloud-native architecture on AWS.
 
-I've worked with startups, enterprise organizations, and distributed teams across LATAM, the US, and Europe, helping bring products from concept to production.
+I've delivered payment integrations, APIs, and commerce platforms for companies 
+ranging from early-stage startups to large US enterprises in retail, working with 
+distributed teams across LATAM, the US, and Europe.
 
-My background includes co-founding and leading the development of SaaS products that reached production and acquired paying customers.
+As co-founder and CTO of an early-stage startup, I led an engineering team of up 
+to 8 developers and took three SaaS products from concept to production with 
+paying customers — including an e-commerce platform, an affiliate marketing 
+platform, and a CRM with WhatsApp and LLM integration.
 
-My experience combines backend engineering, system design, cloud architecture, and technical leadership, with a strong focus on building scalable software products and turning ideas into production-ready solutions.
+→ Full experience and background on [LinkedIn](https://www.linkedin.com/in/juanjosechiroque/)
 
 ---
 
 ## Tech stack
 
-**Backend:** Node.js · TypeScript · NestJS · Express.js · GraphQL · REST APIs · Microservices · Serverless  
-**Frontend:** React.js · Next.js · Angular  
+**Backend:** Node.js · TypeScript · NestJS · Express.js · GraphQL · REST APIs · 
+Microservices · Serverless  
 **Cloud & Infrastructure:** AWS · Docker · Serverless Framework · CI/CD · Vercel  
 **Databases:** PostgreSQL · MongoDB · MySQL · SQL Server  
-**Payments:** Stripe · Mercado Pago · Conekta
+**Payments:** Stripe · Mercado Pago (Checkout Pro & Checkout API) · Conekta  
+**Frontend:** React.js · Next.js · Angular  
 
 ---
 
 ## What I've shipped
 
-**Architected and led the development of three SaaS products as co-founder and CTO, taking them from concept to production and acquiring paying customers**, including:
+**Payment Gateway Analytics Platform** — end-to-end transaction monitoring and 
+analytics system for a payment gateway processing thousands of transactions daily 
+across hundreds of merchants in LATAM. Included a datamart, ETL pipeline, 
+real-time dashboard, and baseline-driven anomaly detection over live payment data.
 
-- **Affiliate Marketing Platform** — click and conversion tracking, partner management, and campaign analytics.
-- **AI-Enabled E-Commerce Platform** — online store management combined with AI-powered content generation for social media and digital marketing.
-- **CRM Platform** — WhatsApp integration, AI-powered conversational workflows, and business automation.
+**Payment Integrations** — Stripe, Conekta, and Mercado Pago (Checkout Pro & 
+Checkout API) across multiple platforms, including webhook handling for 
+asynchronous payment confirmation.
 
-**Legacy-to-modern migration** — architected and led the modernization of the core platform of an international courier company, transforming a legacy monolithic system into a modern frontend/backend architecture that improved performance, user experience, and integration capabilities.
+**Three SaaS products as co-founder & CTO** — led architecture and development 
+with a team of up to 8 developers, taking all three to production with paying 
+customers:
+- **Affiliate Marketing Platform** — partner management, campaign tracking, 
+  and performance analytics.
+- **E-Commerce Platform** — full storefront and order lifecycle with 
+  LLM-powered content generation.
+- **CRM Platform** — WhatsApp integration, LLM-powered chatbot, 
+  and business automation.
 
-**Payment Analytics Platform** — architected and developed an internal monitoring and analytics platform that centralized transaction data from hundreds of merchants across LATAM, enabling near real-time operational visibility, reporting, and automated alerting across payment operations.
+**Platform Modernization (SkyBOX)** — led migration from a legacy monolith to a 
+modern architecture for an international package-forwarding platform with hubs 
+in the US and Europe, serving customers across dozens of countries worldwide.
 
 ---
 
 <p align="center">
-  <em>If you're building SaaS products, fintech solutions, or cloud-native platforms and need someone who can architect, build, and ship — let's connect</em><br/><br/>
-  <a href="https://www.linkedin.com/in/juanjosechiroque/">Connect on LinkedIn</a>
+  <em>If you're building payment systems, e-commerce platforms, or cloud-native 
+  backends and need someone who can architect, build, and ship — let's connect.</em>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/juanjosechiroque/">
+    <img src="https://img.shields.io/badge/LinkedIn-Full Profile & Experience-0077B5?logo=linkedin" />
+  </a>
 </p>
