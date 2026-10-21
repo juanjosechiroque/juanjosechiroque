@@ -39,13 +39,13 @@ Public code that shows how I design and build backends.
 
 ## Tech stack
 
-**Backend:** Node.js · TypeScript · NestJS · Express.js · GraphQL · REST APIs · Microservices  
+**Backend:** Node.js · TypeScript · NestJS · Express.js · GraphQL · REST APIs · Microservices · Jest 
 **Cloud:** AWS (EC2, ECS, Lambda, API Gateway, SQS, S3, CloudFront, IAM) · Terraform · Serverless Framework  
-**DevOps & Testing:** Docker · CI/CD (GitHub Actions) · Jest  
-**Data:** PostgreSQL · MongoDB · MySQL · SQL Server  
-**Payments:** Stripe · Mercado Pago · PayPal · Conekta · Webhooks  
-**AI/LLM:** OpenAI API · RAG · pgvector · Tool calling · WhatsApp Cloud API  
-**Frontend:** React.js · Next.js · Angular  
+**DevOps:** Docker · CI/CD (GitHub Actions)  
+**Data:** PostgreSQL · MongoDB · MySQL · SQL Server
+**Payments:** Stripe · Mercado Pago · PayPal · Conekta · Webhooks
+**AI/LLM:** OpenAI API · RAG · pgvector · Tool calling · WhatsApp Cloud API
+**Frontend:** React.js · Next.js · Angular
 
 ---
 
