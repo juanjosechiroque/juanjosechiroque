@@ -56,7 +56,7 @@ Public code that shows how I design and build backends.
 - **AI-Powered CRM**: led delivery, building key parts such as its external API and integrations: a WhatsApp LLM chatbot with configurable tools, plus sales pipelines and rule-based automation.
 - **Affiliate Marketing Platform**: partner management, campaign tracking, and performance analytics.
 
-**Payment Gateway Monitoring (Alignet)**: end-to-end monitoring and analytics system for a LATAM e-commerce payment gateway serving hundreds of merchants (1,000+ transactions daily), with an ETL pipeline, anomaly alerts and performance reports for the operations team.
+**Payment Gateway Monitoring (Alignet)**: end-to-end monitoring and analytics system for a LATAM e-commerce payment gateway processing 1,000+ transactions daily across hundreds of merchants, with an ETL pipeline, anomaly alerts and performance reports for the operations team.
 
 **Platform Modernization (SkyBOX, Skynet Worldwide Express)**: designed the migration from a legacy monolith to a modern architecture for an international package-forwarding platform with hubs in the US and Europe, then led delivery of new platform modules.
 
